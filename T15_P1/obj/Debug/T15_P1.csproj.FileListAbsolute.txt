@@ -1,0 +1,7 @@
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\bin\Debug\T15_P1.exe.config
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\bin\Debug\T15_P1.exe
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\bin\Debug\T15_P1.pdb
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\obj\Debug\T15_P1.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\obj\Debug\T15_P1.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\obj\Debug\T15_P1.exe
+C:\Users\MosquitoParisi\Desktop\Practicum\T15_P1\obj\Debug\T15_P1.pdb
